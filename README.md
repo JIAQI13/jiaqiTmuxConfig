@@ -1,3 +1,3 @@
 # jiaqiTmuxConfig
 
-my tmux configuration stolen from https://harmonic-owlstars.udemy.com/user/vonnie-hudson/
+my tmux configuration stolen from http://www.fixedbyvonnie.com/
